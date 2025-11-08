@@ -1,5 +1,7 @@
 # FreeFEM
 
+https://github.com/user-attachments/assets/ad9b564c-a573-4607-abe7-278661494470
+
 FreeFEM - An open-source PDE Solver using the Finite Element Method
 https://freefem.org
 
